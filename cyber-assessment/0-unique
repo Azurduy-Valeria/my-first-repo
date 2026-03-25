@@ -1,3 +1,2 @@
 #!/bin/bash
-# Filter for unique items (appearing only once) from input
 sort | uniq -u
